@@ -14,4 +14,4 @@ This project is a basic voting system smart contract written in the Sui Move lan
 4. Call `create_proposal`, then `vote`, then `get_results`
 
 ## Author
-Your Name
+Nworah Chimzuruoke Gabriel 
